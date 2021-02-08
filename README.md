@@ -6,13 +6,9 @@ Shaped by human movement, place connectivity is quantified by the strength of sp
 The following datasets are available for download in this Github repository: 
 
 * US county-level PCI for 2018 and 2019
-
 * County-level shared Twitter users for 2018 and 2019
-
-Aggregated county-level person-day movements derived from Twitter for 2019
-
-Aggregated county-level person-day movements derived from SafeGraph data for 2019
-
-Facebook SCI data can be downloaded at https://data.humdata.org/dataset/social-connectedness-index. 
+* Aggregated county-level person-day movements derived from Twitter for 2019
+* Aggregated county-level person-day movements derived from SafeGraph data for 2019
+* Facebook SCI data can be downloaded at https://data.humdata.org/dataset/social-connectedness-index. 
 
 The interactive web portal for visualizing the PCI and relevant datasets can be accessed at http://gis.cas.sc.edu/GeoAnalytics/pci.html.
