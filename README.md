@@ -10,6 +10,4 @@ The following datasets are available for download in this Github repository:
 * Aggregated county-level person-day movements derived from Twitter for 2019
 * Aggregated county-level person-day movements derived from SafeGraph data for 2019
 
-Facebook SCI data can be downloaded at https://data.humdata.org/dataset/social-connectedness-index. 
-
 The interactive web portal for visualizing the PCI and relevant datasets can be accessed at http://gis.cas.sc.edu/GeoAnalytics/pci.html.
