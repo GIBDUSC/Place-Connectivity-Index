@@ -5,9 +5,9 @@ Shaped by human movement, place connectivity is quantified by the strength of sp
 
 The following datasets are available for download in this Github repository: 
 
-US county-level PCI for 2018 and 2019
+* US county-level PCI for 2018 and 2019
 
-County-level shared Twitter users for 2018 and 2019
+* County-level shared Twitter users for 2018 and 2019
 
 Aggregated county-level person-day movements derived from Twitter for 2019
 
