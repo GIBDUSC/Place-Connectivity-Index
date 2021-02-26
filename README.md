@@ -5,15 +5,13 @@ Shaped by human movement, place connectivity is quantified by the strength of sp
 
 The following datasets are currenlty available for download in this Github repository: 
 
-* US county-level PCI for 2018 and 2019
-* County-level shared Twitter users for 2018 and 2019
-* Worldwide first-level subdivision PCI and shared Twitter users for 2019
-* Aggregated county-level person-day movements derived from Twitter for 2019
-* Aggregated county-level person-day movements derived from SafeGraph data for 2019
-
-The following datasets will be added soon: 
-* New York City census tract level PCI for 2019
-* Los Angeles County census tract level PCI for 2019
+* World country level PCI for 2019
+* Worldwide first-level subdivision PCI for 2019
 * US metropolitan-level PCI for 2019
+* US county-level PCI for 2018 and 2019
+* New York City census tract level PCI for 2018 and 2019
+* Los Angeles County census tract level PCI for 2018 and 2019
+* Aggregated US county level person-day movements derived from Twitter for 2019
+* Aggregated US county level person-day movements derived from SafeGraph data for 2019
 
 The interactive web portal for visualizing the PCI and relevant datasets can be accessed at http://gis.cas.sc.edu/GeoAnalytics/pci.html.
