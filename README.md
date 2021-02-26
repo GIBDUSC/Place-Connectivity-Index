@@ -25,3 +25,5 @@ All PCI datasets are in CSV (Comma-Separated Values) format having the same colu
 * dir_pci: place connective index compuated with Eq. A1 and Eq. A2 in the manuscript Appendix A. 
 
 The interactive web portal for visualizing the PCI and relevant datasets can be accessed at http://gis.cas.sc.edu/GeoAnalytics/pci.html.
+
+More information about the PCI datasets and their potential applications can be found at: https://www.researchgate.net/publication/349124701_Measuring_Global_Multi-Scale_Place_Connectivity_using_Geotagged_Social_Media_Data
