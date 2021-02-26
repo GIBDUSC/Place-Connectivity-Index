@@ -21,8 +21,8 @@ All PCI datasets are in CSV (Comma-Separated Values) format with the same column
 * shared_users: number of shared Twitter users between place i and place j.
 * place_i_users: number of total observed users in place i during the specified time period.
 * place_j_users: number of total observed users in place i during the specified time period.
-* pci: place connective index compuated with Eq. 1 in the manuscript.
-* dir_pci: place connective index compuated with Eq. A1 and Eq. A2 in the manuscript Appendix A. 
+* pci: place connective index compuated with Eq. 1 in the manuscript (see link below).
+* dir_pci: place connective index compuated with Eq. A1 and Eq. A2 in the manuscript Appendix A (see link below). 
 
 The interactive web portal for visualizing the PCI and relevant datasets can be accessed at http://gis.cas.sc.edu/GeoAnalytics/pci.html.
 
