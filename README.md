@@ -14,7 +14,7 @@ The following datasets are currenlty available for download in this Github repos
 * Aggregated US county level person-day movements derived from Twitter for 2019
 * Aggregated US county level person-day movements derived from SafeGraph data for 2019
 
-All PCI datasets are in CSV (Comma-Separated Values) format with the same columns: place_i , place_j, shared_users, place_i_users, place_j_users,pci, dir_pci
+All PCI datasets are in CSV (Comma-Separated Values) format with the same columns: place_i , place_j, shared_users, place_i_users, place_j_users,pci, dir_pci. The PCI values are scaled by 1000 for the ease of presentation and storage. 
 
 * place_i: id for place i (using FIPS for places for US county and tract, using ISO place code for other places).
 * place_j: id for place j (using FIPS for places for US county and tract, using ISO place code for other places).
